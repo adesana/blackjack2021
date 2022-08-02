@@ -1,0 +1,9 @@
+body{
+    background-image: url(https://t4.ftcdn.net/jpg/03/33/16/21/360_F_333162138_4i2Ce8farqO0dlbyi6kqrjuVBbkrk7Qf.jpg);
+}
+
+
+.player{
+    width: 200px;
+    background-color: red;
+}
